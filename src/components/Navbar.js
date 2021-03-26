@@ -24,11 +24,11 @@ class Navbar extends Component {
             <nav>
             <div className="neu2">
                 <div className="neu1">
-                <img src={profilepic} className="profilepic"></img>
+                <img src={profilepic} className="profilepic" alt="Profile Pic"></img>
                 </div>
             </div>
-            <h2>Vikalp <mark>Kaushik</mark></h2>
-            <p>Full Stack Developer</p>
+            <h2>Todd <mark>Best</mark></h2>
+            <p>Software Developer & <br/>IT Support Specalist</p>
             <ul>
             <Navitem item="Home" tolink="/"  activec={this.activeitem}></Navitem>
             <Navitem item="About" tolink="/about"  activec={this.activeitem}></Navitem>

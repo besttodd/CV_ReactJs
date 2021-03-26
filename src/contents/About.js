@@ -7,16 +7,12 @@ class About extends Component {
             <div className="condiv">
             <h1 className="subtopic">About Me</h1>
             <div className="hr_line line2"><div className="inner2"></div></div>
-            <h2 className="abouthead">Vikalp <mark className="mark2">Kaushik</mark></h2>
-            <p>Full Stack Developer</p>
+            <h2 className="abouthead">Todd <mark className="mark2">Best</mark></h2>
+            <p>Android App Developer & IT Support Specialist</p>
             <br></br>
-            <p className="p10">I started my journey in the world of computers from an young age,
-            now I’m 21 years old, Pursuing my Computer Science and Engineering Degree in
-            GNDEC Ludhiana.  Web development is my center of interest, i always
-            love the idea of cross-platform development, 1-n one code base deploy into almost
-            any platform, which web technology like Javascript enables me to do. I also like
-            creating Interactive UI components for better UX  and share those design and codes
-            to the world through Github and Instagram.
+            <p className="p10">I am an enthusiastic, hard-working, soon to be, graduate looking to put my passion for 
+            technology and problem solving to better use. I love the ever-changing and adapting world of technology and 
+            aim to be working within an environment that continues to challenge and engage me.
             </p>
             <div className="Edu">
                 <div class="back1 back2"><i class="fa fa-book i1 i3"></i></div>
@@ -26,20 +22,23 @@ class About extends Component {
                 <div className="vr_inner inn1"></div>
                 <div className="vr_inner inn2"></div>
             </div>
-            <h4>B.Tech in CSE</h4>
-            <p className="p1">GNDEC, Ludhiana</p>
-            <p className="p1"><i class="fa fa-calendar i2"></i>May 2018 - 2022</p>
+            <h4>B. Info Tech - GPA 6.6</h4>
+            <p className="p1">James Cook University, Australia</p>
+            <p className="p1"><i class="fa fa-calendar i2"></i>2018 - 2021</p>
             <h4>High School</h4>
-            <p className="p1">St. Farid Public School, MGG</p>
-            <p className="p1"><i class="fa fa-calendar i2"></i>May 2017</p>
+            <p className="p1">Trinity Bay State High School, Qld</p>
+            <p className="p1"><i class="fa fa-calendar i2"></i>Nov 2003</p>
 
             <h3 class="sk_head">Skills</h3>
             <div class="sk">HTML</div>
             <div class="sk s2">CSS</div>
-            <div class="sk s3">JavaScript</div>
-            <div class="sk s4">React</div>
-            <div class="sk s5">Node</div>
-            <div class="sk s6">Python</div>
+            <div class="sk s3">React</div>
+            <div class="sk s4">JavaScript</div>
+            <div class="sk s5">Python</div>
+            <div class="sk s6">Android</div>
+            <div class="sk s7">CISCO</div>
+            <div class="sk s8">Microsoft</div>
+            <div class="sk s9">Scrum</div>
             </div>
             )
         }

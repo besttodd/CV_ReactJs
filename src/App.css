@@ -156,7 +156,7 @@ h4{
 .sk{
   position: absolute;
   top: 65%;
-  left: 58%;
+  left: 55%;
   display: inline-block;
   width: 90px;
   height: 15px;
@@ -168,23 +168,36 @@ h4{
   box-shadow: inset -3px -3px 7px #ffffff73, inset 3px 3px 5px rgba(18, 18, 19, 0.288);
 }
 .s2{
-  left: 75%;
+  top: 65%;
+  left: 70%;
 }
 .s3{
-  top: 75%;
-  left: 58%;
+  top: 65%;
+  left: 85%;
 }
 .s4{
   top: 75%;
-  left: 75%;
+  left: 85%;
 }
 .s5{
-  top: 85%;
-  left: 58%;
+  top: 75%;
+  left: 55%;
 }
 .s6{
+  top: 75%;
+  left: 70%;
+}
+.s7{
   top: 85%;
-  left: 75%;
+  left: 55%;
+}
+.s8{
+  top: 85%;
+  left: 70%;
+}
+.s9{
+  top: 85%;
+  left: 85%;
 }
 mark{
   color: inherit;
